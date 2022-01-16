@@ -1,0 +1,167 @@
+conn prob : 0.5, 0.5
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 43 
+
+
+conn prob : 0.3, 0.3
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 87 
+
+
+conn prob : 0.6, 0.6
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 40 
+
+conn prob : 0.6, 0.4
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 22 
+
+conn prob : 0.4, 0.6
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 22
+
+conn prob : 0.7, 0.2
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 79
+
+conn prob : 0.8, 0.8
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 16
+
+
+conn prob : 1.0, 1.0
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 51
+
+conn prob : 0.0, 0.0
+add node : 0.2
+del node : 0.2
+
+fitness : 80 
+gen : 250 and .... (4)
+
+
+conn prob : 0.5, 0.5
+add node : 0.5
+del node : 0.5
+
+fitness : 80 
+gen : 32 
+
+
+conn prob : 0.5, 0.5
+add node : 0.7
+del node : 0.7
+
+fitness : 80 
+gen : 16
+
+
+conn prob : 0.5, 0.5
+add node : 0.8
+del node : 0.8
+
+fitness : 80 
+gen : 26
+
+
+conn prob : 0.5, 0.5
+add node : 0.5
+del node : 0.2
+
+fitness : 80 
+gen : 21
+
+
+conn prob : 0.5, 0.5
+add node : 0.2
+del node : 0.5
+
+fitness : 80 
+gen : 22
+
+conn prob : 0.5, 0.5
+add node : 0.2
+del node : 0.7
+
+fitness : 80 
+gen : 16
+
+conn prob : 0.5, 0.5
+add node : 0.7
+del node : 0.2
+
+fitness : 80 
+gen : 190 (special)
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
+
+fitness : 50 
+gen			: 20 
+
+
+fitness : 80 
+gen			: 15 
+
+
+fitness : 100 
+gen			: 26
+
+
+fitness : 120 
+gen			: 29
+
+
+fitness : 140 
+gen			: 46
+	
+fitness : 160 
+gen			: 116
+
+fitness : 180 
+gen			: 125
+
+fitness : 200 
+gen			: 192 
+
+
+
+
+
+
+
+
+
+
+
